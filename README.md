@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-mi primer repositorio de prueba
+Este es un proyecto de prubea
